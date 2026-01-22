@@ -4,6 +4,12 @@
 >
 > As a step-by-step tutorial to guides users build their own scRNAseq database by R package - SeuratExplorerServer, which also provide researchers a new tool to investigate fly scRNAseq data.
 
+
+
+**Check the [demo database](http://www.nibs.ac.cn:666/FlyCellAtlas-SES/shiny-server/index-page/)**
+
+
+
 ## 1. prepare data
 
 Download data from [FLY CELL ATLAS](https://flycellatlas.org/), only select H5AD files.
