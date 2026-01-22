@@ -102,6 +102,6 @@ in the demo: ``http://www.nibs.ac.cn:666`` is the shiny-server IP address (with 
 
 ## Data and codes avaiiability
 
-all data and scripts can be downloaded from [Fly Cell Atlas - by SeuratExplorer Server](http://www.nibs.ac.cn:666/FlyCellAtlas-SES/), and the scripts can also be downloaded from github - [fentouxungui/FlyCellAtlas-SES](https://github.com/fentouxungui/SeuratExplorer)
+all data and scripts can be downloaded from [Fly Cell Atlas - by SeuratExplorer Server](http://www.nibs.ac.cn:666/FlyCellAtlas-SES/), and the scripts can also be downloaded from github - [fentouxungui/FlyCellAtlas-SES](https://github.com/fentouxungui/FlyCellAtlas-SES)
 
 Congratulations!
