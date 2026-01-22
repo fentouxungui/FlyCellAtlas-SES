@@ -1,7 +1,8 @@
 # Deploy FLY CELL ATLAS database by SeuratExplorer Server
 
 > why do this?
-As a step-by-step tutorial to guides users build their own scRNAseq database by R package - SeuratExplorerServer, which also provide researchers a new tool to investigate fly scRNAseq data.
+>
+> As a step-by-step tutorial to guides users build their own scRNAseq database by R package - SeuratExplorerServer, which also provide researchers a new tool to investigate fly scRNAseq data.
 
 ## 1. prepare data
 
@@ -41,64 +42,7 @@ Data
 │ │ └── s_fca_biohub_fat_body_10x.h5ad
 │ └── Smart-seq2
 │     └── fat_body.h5ad
-├── Gut
-│ ├── 10×
-│ │ └── s_fca_biohub_gut_10x.h5ad
-│ └── Smart-seq2
-│     └── gut.h5ad
-├── Haltere
-│ ├── 10×
-│ │ └── s_fca_biohub_haltere_10x.h5ad
-│ └── Smart-seq2
-│     └── haltere.h5ad
-├── Head
-│ └── 10×
-│     └── s_fca_biohub_head_10x.h5ad
-├── Heart
-│ ├── 10×
-│ │ └── s_fca_biohub_heart_10x.h5ad
-│ └── Smart-seq2
-│     └── heart.h5ad
-├── Leg
-│ ├── 10×
-│ │ └── s_fca_biohub_leg_10x.h5ad
-│ └── Smart-seq2
-│     └── leg.h5ad
-├── MaleReproductiveGlands
-│ ├── 10×
-│ │ └── s_fca_biohub_male_reproductive_glands_10x.h5ad
-│ └── Smart-seq2
-│     └── male_reproductive_glands.h5ad
-├── MalpighianTubule
-│ ├── 10×
-│ │ └── s_fca_biohub_malpighian_tubule_10x.h5ad
-│ └── Smart-seq2
-│     └── malpighian_tubule.h5ad
-├── Oenocyte
-│ ├── 10×
-│ │ └── s_fca_biohub_oenocyte_10x.h5ad
-│ └── Smart-seq2
-│     └── oenocyte.h5ad
-├── Ovary
-│ ├── 10×
-│ │ └── s_fca_biohub_ovary_10x.h5ad
-│ └── Smart-seq2
-│     └── ovary.h5ad
-├── Proboscis
-│ ├── 10×
-│ │ └── s_fca_biohub_proboscis_and_maxillary_palps_10x.h5ad
-│ └── Smart-seq2
-│     └── proboscis_and_maxillary_palps.h5ad
-├── Testis
-│ ├── 10×
-│ │ └── r_fca_biohub_testis_10x.h5ad
-│ └── Smart-seq2
-│     └── testis.h5ad
-├── Trachea
-│ ├── 10×
-│ │ └── s_fca_biohub_trachea_10x.h5ad
-│ └── Smart-seq2
-│     └── trachea.h5ad
+.......................................
 └── Wing
     ├── 10×
     │ └── s_fca_biohub_wing_10x.h5ad
