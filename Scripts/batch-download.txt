@@ -1,0 +1,34 @@
+Head	10×	https://cloud.flycellatlas.org/index.php/s/LAEybPc2HZnpzKs/download/s_fca_biohub_head_10x.h5ad
+Body	10×	https://cloud.flycellatlas.org/index.php/s/nXnbWzQnLxTXmMT/download/s_fca_biohub_body_10x.h5ad
+Antenna	10×	https://cloud.flycellatlas.org/index.php/s/jpLWSwcA638yZka/download/s_fca_biohub_antenna_10x.h5ad
+Antenna	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/zgrnHWTHMsS8tA3/download/antenna.h5ad
+Bodywall	10×	https://cloud.flycellatlas.org/index.php/s/sZZMSbcNk4SWtHE/download/s_fca_biohub_body_wall_10x.h5ad
+Bodywall	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/zRMAHRwQLc4Z8Sm/download/body_wall.h5ad
+Fatbody	10×	https://cloud.flycellatlas.org/index.php/s/zca3Es6MNx9TDsy/download/s_fca_biohub_fat_body_10x.h5ad
+Fatbody	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/WPDTJrAHpmE9sri/download/fat_body.h5ad
+Gut	10×	https://cloud.flycellatlas.org/index.php/s/TfX7etSc5NnmFAz/download/s_fca_biohub_gut_10x.h5ad
+Gut	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/X3nWFL4z4Yi73s2/download/gut.h5ad
+Haltere	10×	https://cloud.flycellatlas.org/index.php/s/QDtoYjpfQgey5aq/download/s_fca_biohub_haltere_10x.h5ad
+Haltere	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/2jY8Y6Q647Y8BKC/download/haltere.h5ad
+Heart	10×	https://cloud.flycellatlas.org/index.php/s/sCB3bs3Yg5ypaBS/download/s_fca_biohub_heart_10x.h5ad
+Heart	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/Dfqb6TbqfwDeKXZ/download/heart.h5ad
+Leg	10×	https://cloud.flycellatlas.org/index.php/s/ofHeNRbZPn52QtT/download/s_fca_biohub_leg_10x.h5ad
+Leg	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/9KLm4CkKxtoaSY5/download/leg.h5ad
+MaleReproductiveGlands	10×	https://cloud.flycellatlas.org/index.php/s/B4kH5SiLPF24nsC/download/s_fca_biohub_male_reproductive_glands_10x.h5ad
+MaleReproductiveGlands	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/6bdDH2Y2FTNW7nT/download/male_reproductive_glands.h5ad
+MalpighianTubule	10×	https://cloud.flycellatlas.org/index.php/s/qDRy6NqxmqN7SxS/download/s_fca_biohub_malpighian_tubule_10x.h5ad
+MalpighianTubule	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/YbB4NgwTsGT2K8o/download/malpighian_tubule.h5ad
+Oenocyte	10×	https://cloud.flycellatlas.org/index.php/s/WdSri425t88B7JA/download/s_fca_biohub_oenocyte_10x.h5ad
+Oenocyte	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/aJX2Lex88FmcwoW/download/oenocyte.h5ad
+Ovary	10×	https://cloud.flycellatlas.org/index.php/s/zgZe3Zsegpn5Bpg/download/s_fca_biohub_ovary_10x.h5ad
+Ovary	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/9kEmXzBnR8nbLpX/download/ovary.h5ad
+Proboscis	10×	https://cloud.flycellatlas.org/index.php/s/gGsWF6PRk45Apan/download/s_fca_biohub_proboscis_and_maxillary_palps_10x.h5ad
+Proboscis	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/jPdJ7ANYyWD68ea/download/proboscis_and_maxillary_palps.h5ad
+Testis	10×	https://cloud.flycellatlas.org/index.php/s/Tcya9yE9CMwScdR/download/r_fca_biohub_testis_10x.h5ad
+Testis	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/i5NdDtnJp6YFdse/download/testis.h5ad
+Trachea	10×	https://cloud.flycellatlas.org/index.php/s/j3kQTf5KifXyBYr/download/s_fca_biohub_trachea_10x.h5ad
+Trachea	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/8ciSzkyps8MWRYY/download/trachea.h5ad
+Wing	10×	https://cloud.flycellatlas.org/index.php/s/eAD6HL7TaesZ6GM/download/s_fca_biohub_wing_10x.h5ad
+Wing	Smart-seq2	https://cloud.flycellatlas.org/index.php/s/G69367b4grGAWNc/download/wing.h5ad
+		
+		

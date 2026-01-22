@@ -1,0 +1,7 @@
+library(SeuratExplorerServer)
+launchSeuratExplorerServer(Encrypted = TRUE,
+                           credentials = readRDS("/home/zhangyc/ShinyServer/FlyCellAtlas-SES/Scripts/credentials.rds"),
+                           paramterfile = "data_meta.rds",
+                           TechnicianEmail = "Your Email",
+                           TechnicianName = "Your Name",
+                           verbose = FALSE)
