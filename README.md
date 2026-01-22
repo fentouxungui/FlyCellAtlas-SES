@@ -106,7 +106,7 @@ now you can visit index page use url: ``IP address plus index app directory``
 
 in the demo: ``http://www.nibs.ac.cn:666`` is the shiny-server IP address (with port), ``FlyCellAtlas-SES/shiny-server/index-page/`` is the relative path to shiny-server site directory. The demo shiny-server site directory is set to ``/home/zhangyc/ShinyServer``.
 
-## Data and codes avaiiability
+## Data and codes availability
 
 all data and scripts can be downloaded from [Fly Cell Atlas - by SeuratExplorer Server](http://www.nibs.ac.cn:666/FlyCellAtlas-SES/), and the scripts can also be downloaded from github - [fentouxungui/FlyCellAtlas-SES](https://github.com/fentouxungui/FlyCellAtlas-SES)
 
